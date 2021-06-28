@@ -1,9 +1,9 @@
-# tasbex
+# Tasbex
 
 A new Flutter project.
 <a href="https://ibb.co/vX0HWdY"><img src="https://i.ibb.co/MBFsH16/a.jpg" alt="a" border="0" width = "100"></a>
 
-## Getting Started
+## Biz Boshladik
 
 This project is a starting point for a Flutter application.
 
